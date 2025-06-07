@@ -82,7 +82,7 @@ PRIMARY_INTERFACE=$(ip route | grep default | awk '{print $5}')
 ```bash
 PRIMARY_INTERFACE=$(ip route | grep default | awk '{print $5}'| head -n1)
 ```
-![alt text](Pics/2.png)
+![alt text](Pics/6.png)
 
 ## INSTALL CILIUM: (Visual Viewer)
 
@@ -229,6 +229,8 @@ while $(./is_running.sh | grep -q "NOT_RUNNING"); do
     fi
 done
 ```
+
+![alt text](Pics/2.png)
 
 **Then Run :**
 ```bash
