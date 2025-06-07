@@ -251,7 +251,7 @@ Enter the Number of UE’s in the For Loop
 ./generate_configurations.sh
 ```
 
-## UE TRAFFIC SIMULATION
+## UE TRAFFIC SIMULATION:
 
 **Terminal 1:** 
 
@@ -309,4 +309,4 @@ and then Run
 
 Import the file `TiHAN-1749018629332.json` in Grafana Dashboard
 
-![alt text](5.png)
+![alt text](Pics/5.png)
