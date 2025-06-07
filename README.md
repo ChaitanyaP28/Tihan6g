@@ -115,7 +115,7 @@ kubectl get pods -A
 ```bash
 ./run.sh 
 ./run_with_grafana_dashboard.sh #Run with Grafana # Ctrl+Z to Stop
-./stop.sh 	                    #To stop the running ALWAYS RUN THIS FOR STOPPING 
+./stop.sh   #To stop the running ALWAYS RUN THIS FOR STOPPING 
 ./is_running.sh
 ```
 ## To Visualize:
