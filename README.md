@@ -59,8 +59,8 @@ And change the Two Files.
 
 Comment the Docker Clean Up Part in (Line 474)
 
-# Uninstall Docker packages and clean up
 ```bash
+# Uninstall Docker packages and clean up
 #sudo apt-get remove --purge -y --allow-change-held-packages docker docker-engine docker-ce #docker.io containerd runc || true
 #sudo rm -rf /var/lib/docker /etc/docker
 #sudo apt-get autoremove -y
